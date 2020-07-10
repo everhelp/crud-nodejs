@@ -1,0 +1,8 @@
+{margin:0; padding:0; box-sizing: border-box;}
+{color: darkred; width: 100%; text-align: center;}
+
+a{color: #333;}
+
+table{width: 100%;}
+table td{width: 25%;}
+table tr:first-child{background: #333; color: #fff; font-weight: bold; padding: 15px;}
